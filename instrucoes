@@ -1,0 +1,5 @@
+executar no diretório o a sequencia de comandos
+
+npm install
+npm run compile
+npm run start
